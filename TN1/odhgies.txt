@@ -1,0 +1,2 @@
+1) java Taxi path/to/csvs/
+2) ./make_kml.sh code/ result.kml
